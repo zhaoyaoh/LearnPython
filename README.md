@@ -1,2 +1,2 @@
 # LearnPython
-学习Python练习代码
+学习Pyhton练习代码
